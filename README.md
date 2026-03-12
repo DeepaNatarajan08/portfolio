@@ -1,4 +1,4 @@
-# Deepa Natarajan – Tech Leadership Portfolio
+# Deepalakshmi Natarajan – Tech Portfolio
 
 ## About Me
 Senior Technical Lead with 11+ years of experience in software development, system architecture, and project delivery.  

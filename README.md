@@ -2,7 +2,7 @@
 
 ## About Me
 Senior Technical Lead with 11+ years of experience in software development, system architecture, and project delivery.  
-Currently pursuing an MBA in Project Management in Vancouver.  
+An MBA in Project Management in Vancouver.  
 Interested in building scalable cloud-based systems, analytics platforms, and digital products that solve real-world problems.
 
 ## Portfolio Projects

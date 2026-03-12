@@ -10,6 +10,7 @@ Interested in building scalable cloud-based systems, analytics platforms, and di
 ### 1. Cloud-Based Data Analytics Platform for Bikeways – City of Vancouver
 A scalable cloud-based analytics platform built using AWS to analyze Vancouver’s bikeways infrastructure data.  
 The platform includes data ingestion, transformation, profiling, and analytics to support urban transportation planning.
+https://github.com/DeepaNatarajan08/data-analyst-deepa
 
 ### 2. Vancouver Weather Data Analysis
 A simple analytics project that explores temperature and rainfall trends using structured weather data.

@@ -16,6 +16,11 @@ A cloud-based analytics concept to improve public visibility into council voting
 ### 3. Telemedicine Consultation Platform
 A product and system design concept focused on reducing emergency wait times through virtual care and digital triage.
 
+### 4. Cloud-Based Data Analytics Platform for Bikeways – City of Vancouver
+A scalable cloud-based analytics platform built using AWS to analyze Vancouver’s bikeways infrastructure data.  
+The platform includes data ingestion, transformation, profiling, and analytics to support urban transportation planning.
+
+
 ## Skills
 - Java
 - System Design

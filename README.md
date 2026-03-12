@@ -7,19 +7,18 @@ Interested in building scalable cloud-based systems, analytics platforms, and di
 
 ## Portfolio Projects
 
-### 1. Vancouver Weather Data Analysis
-A simple analytics project that explores temperature and rainfall trends using structured weather data.
-
-### 2. Government Transparency Data Platform
-A cloud-based analytics concept to improve public visibility into council voting records and civic decision-making.
-
-### 3. Telemedicine Consultation Platform
-A product and system design concept focused on reducing emergency wait times through virtual care and digital triage.
-
-### 4. Cloud-Based Data Analytics Platform for Bikeways – City of Vancouver
+### 1. Cloud-Based Data Analytics Platform for Bikeways – City of Vancouver
 A scalable cloud-based analytics platform built using AWS to analyze Vancouver’s bikeways infrastructure data.  
 The platform includes data ingestion, transformation, profiling, and analytics to support urban transportation planning.
 
+### 2. Vancouver Weather Data Analysis
+A simple analytics project that explores temperature and rainfall trends using structured weather data.
+
+### 3. Government Transparency Data Platform
+A cloud-based analytics concept to improve public visibility into council voting records and civic decision-making.
+
+### 4. Telemedicine Consultation Platform
+A product and system design concept focused on reducing emergency wait times through virtual care and digital triage.
 
 ## Skills
 - Java
